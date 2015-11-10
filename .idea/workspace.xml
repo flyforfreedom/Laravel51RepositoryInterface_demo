@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a991ff0-9923-4319-8702-007cecbac6b1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Contracts/PostRepositoryInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/MyRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/posts/index.blade.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_provision" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_set_name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/creator_uid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/id" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/index_uuid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/private_key" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/synced_folders" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Vagrantfile" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Laravel51RepositoryTesting_demo.iml" afterPath="$PROJECT_DIR$/.idea/Laravel51RepositoryTesting_demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/blade.xml" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Post.php" afterPath="$PROJECT_DIR$/app/Post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Repositories/PostRepository.php" afterPath="$PROJECT_DIR$/app/Repositories/PostRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/factories/ModelFactory.php" afterPath="$PROJECT_DIR$/database/factories/ModelFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/PostModelTest.php" afterPath="$PROJECT_DIR$/tests/PostModelTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/PostRepositoryTest.php" afterPath="$PROJECT_DIR$/tests/PostRepositoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/TestCase.php" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
+    </list>
+    <ignored path="Laravel51RepositoryTesting_demo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Laravel51RepositoryTesting_demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RepositoryServiceProvider.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Providers/RepositoryServiceProvider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0042283298">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env.example" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_10_14_004848_create_articles_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_10_14_113810_create_articles_table.php" />
+        <option value="$PROJECT_DIR$/app/Article.php" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/tests/ArticleTest.php" />
+        <option value="$PROJECT_DIR$/tests/ArticleRepositoryTest.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/ArticleRepository.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/app/Post.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_10_14_113810_create_posts_table.php" />
+        <option value="$PROJECT_DIR$/tests/PostModelTest.php" />
+        <option value="$PROJECT_DIR$/database/seeds/PostsTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/factories/ModelFactory.php" />
+        <option value="$PROJECT_DIR$/resources/views/posts/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Contracts/IPostRepository.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/tests/PostRepositoryTest.php" />
+        <option value="$PROJECT_DIR$/tests/TestCase.php" />
+        <option value="$PROJECT_DIR$/tests/PostsControllerTest.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/PostRepository.php" />
+        <option value="$PROJECT_DIR$/app/Contracts/PostRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/app/Repositories/MyRepository.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" />
+        <option value="$PROJECT_DIR$/app/Providers/RepositoryServiceProvider.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1648" />
+    <option name="height" value="769" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Illuminate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Illuminate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Providers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel51RepositoryInterface_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Contracts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Laravel51ControllerTesting_demo">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="plugins&#9;ACTION&#9;WelcomeScreen.Plugins" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a991ff0-9923-4319-8702-007cecbac6b1" name="Default" comment="" />
+      <created>1444783147512</created>
+      <option name="number" value="Default" />
+      <updated>1444783147512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1648" height="769" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24332525" sideWeight="0.7245509" order="3" side_tool="false" content_ui="combo" x="271" y="0" width="367" height="769" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24332525" sideWeight="0.2754491" order="0" side_tool="true" content_ui="tabs" x="643" y="0" width="392" height="769" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25033468" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" x="64" y="406" width="1080" height="565" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37275064" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/PostModelTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/ModelFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state>
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state>
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45244217">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Testing/ApplicationTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61182517">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6191744">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state>
+          <first_editor vertical-scroll-proportion="0.09690444">
+            <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12920593">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03230148">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33243608">
+          <caret line="226" column="20" selection-start-line="226" selection-start-column="20" selection-end-line="226" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12920593">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5168237">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_10_14_113810_create_posts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48317632">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41991925">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3230148">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5140562">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48460507">
+          <caret line="134" column="41" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20588236">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8995984">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/View/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26229507">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/PostModelTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6546961">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/ModelFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39779004">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.phpstorm.meta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7292818">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0041724">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/PostsControllerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.31571627">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/PostRepositoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42280945">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homestead.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2906815">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/PostsTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42280945">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42280945">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34353268">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <marker date="1446169352000" expanded="true" signature="67:778" placeholder=" App\Post ..." />
+            <marker date="1446169352000" expanded="true" signature="805:870" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/posts/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36995828">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Contracts/PostRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05285118">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1447074044000" expanded="true" signature="82:147" placeholder=" Interface PostRepositoryInterface ..." />
+            <marker date="1447074044000" expanded="true" signature="193:248" placeholder=" 傳回最新3筆文章 ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/PostRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1891516">
+          <caret line="12" column="55" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="55" />
+          <folding>
+            <marker date="1447074026000" expanded="false" signature="40:137" placeholder="..." />
+            <marker date="1447074026000" expanded="true" signature="142:197" placeholder=" Class PostRepository ..." />
+            <marker date="1447074026000" expanded="true" signature="265:288" placeholder=" @var Post ..." />
+            <marker date="1447074026000" expanded="true" signature="320:386" placeholder=" PostRepository constructor. ..." />
+            <marker date="1447074026000" expanded="true" signature="432:473" placeholder="{...}" />
+            <marker date="1447074026000" expanded="true" signature="482:537" placeholder=" 傳回最新3筆文章 ..." />
+            <marker date="1447074026000" expanded="true" signature="577:718" placeholder="{...}" />
+            <marker date="1447074026000" expanded="true" signature="655:667" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/MyRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5549374">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <marker date="1447075728000" expanded="true" signature="40:123" placeholder="..." />
+            <marker date="1447075728000" expanded="true" signature="128:181" placeholder=" Class MyRepository ..." />
+            <marker date="1447075728000" expanded="true" signature="248:303" placeholder=" 傳回最新3筆文章 ..." />
+            <marker date="1447075728000" expanded="true" signature="343:726" placeholder="{...}" />
+            <marker date="1447075728000" expanded="true" signature="422:695" placeholder="..." />
+            <marker date="1447075728000" expanded="true" signature="444:642" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8984701">
+          <caret line="34" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35306555">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <marker date="1443724368000" expanded="false" signature="43:361" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="416:2510" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="426:500" placeholder=" Bootstrap the application events. ..." />
+            <marker date="1443724368000" expanded="true" signature="529:655" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="664:735" placeholder=" Register the service provider. ..." />
+            <marker date="1443724368000" expanded="true" signature="768:1672" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="1189:1278" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="1220:1277" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="1565:1664" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="1588:1663" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="1681:1778" placeholder=" Register the Eloquent factory instance in the container. ..." />
+            <marker date="1443724368000" expanded="true" signature="1829:2188" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="1866:1955" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="1902:1954" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="1989:2180" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="2030:2179" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="2197:2292" placeholder=" Register the queueable entity resolver implementation. ..." />
+            <marker date="1443724368000" expanded="true" signature="2351:2508" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="2388:2500" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="2446:2499" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Providers/FormRequestServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35306555">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <marker date="1443724368000" expanded="false" signature="55:180" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="238:1759" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="248:319" placeholder=" Register the service provider. ..." />
+            <marker date="1443724368000" expanded="true" signature="352:375" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="384:458" placeholder=" Bootstrap the application events. ..." />
+            <marker date="1443724368000" expanded="true" signature="487:865" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="531:857" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="562:856" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="597:845" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="636:844" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="792:829" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="874:1105" placeholder=" Initialize the form request with data from the given request. ..." />
+            <marker date="1443724368000" expanded="true" signature="1185:1757" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="1328:1522" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="1574:1624" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64270616">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <marker date="1443724368000" expanded="true" signature="120:355" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="130:269" placeholder=" Bootstrap the given application. ..." />
+            <marker date="1443724368000" expanded="true" signature="319:353" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Contracts/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.040169135">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <marker date="1443724368000" expanded="true" signature="61:879" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="71:156" placeholder=" Bootstrap the application for HTTP requests. ..." />
+            <marker date="1443724368000" expanded="true" signature="200:378" placeholder=" Handle an incoming HTTP request. ..." />
+            <marker date="1443724368000" expanded="true" signature="427:656" placeholder=" Perform any final actions for the request lifecycle. ..." />
+            <marker date="1443724368000" expanded="true" signature="719:837" placeholder=" Get the Laravel application instance. ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35306555">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <marker date="1443724368000" expanded="true" signature="137:2146" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="147:232" placeholder=" Get the version number of the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="274:363" placeholder=" Get the base path of the Laravel installation. ..." />
+            <marker date="1443724368000" expanded="true" signature="406:519" placeholder=" Get or check the current application environment. ..." />
+            <marker date="1443724368000" expanded="true" signature="565:669" placeholder=" Determine if the application is currently down for maintenance. ..." />
+            <marker date="1443724368000" expanded="true" signature="724:806" placeholder=" Register all of the configured providers. ..." />
+            <marker date="1443724368000" expanded="true" signature="868:1118" placeholder=" Register a service provider with the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="1201:1348" placeholder=" Register a deferred provider and service. ..." />
+            <marker date="1443724368000" expanded="true" signature="1433:1515" placeholder=" Boot the application's service providers. ..." />
+            <marker date="1443724368000" expanded="true" signature="1554:1656" placeholder=" Register a new boot listener. ..." />
+            <marker date="1443724368000" expanded="true" signature="1707:1813" placeholder=" Register a new &quot;booted&quot; listener. ..." />
+            <marker date="1443724368000" expanded="true" signature="1863:1953" placeholder=" Get the path to the cached &quot;compiled.php&quot; file. ..." />
+            <marker date="1443724368000" expanded="true" signature="2008:2097" placeholder=" Get the path to the cached services.json file. ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7399577">
+          <caret line="734" column="9" selection-start-line="734" selection-start-column="9" selection-end-line="734" selection-end-column="9" />
+          <folding>
+            <marker date="1443724368000" expanded="false" signature="45:679" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="768:29405" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="778:848" placeholder=" The Laravel framework version. ..." />
+            <marker date="1443724368000" expanded="true" signature="895:978" placeholder=" The base path for the Laravel installation. ..." />
+            <marker date="1443724368000" expanded="true" signature="1014:1110" placeholder=" Indicates if the application has been bootstrapped before. ..." />
+            <marker date="1443724368000" expanded="true" signature="1165:1245" placeholder=" Indicates if the application has &quot;booted&quot;. ..." />
+            <marker date="1443724368000" expanded="true" signature="1287:1357" placeholder=" The array of booting callbacks. ..." />
+            <marker date="1443724368000" expanded="true" signature="1406:1475" placeholder=" The array of booted callbacks. ..." />
+            <marker date="1443724368000" expanded="true" signature="1523:1597" placeholder=" The array of terminating callbacks. ..." />
+            <marker date="1443724368000" expanded="true" signature="1650:1729" placeholder=" All of the registered service providers. ..." />
+            <marker date="1443724368000" expanded="true" signature="1778:1859" placeholder=" The names of the loaded service providers. ..." />
+            <marker date="1443724368000" expanded="true" signature="1907:1988" placeholder=" The deferred services and their providers. ..." />
+            <marker date="1443724368000" expanded="true" signature="2037:2128" placeholder=" A custom callback used to configure Monolog. ..." />
+            <marker date="1443724368000" expanded="true" signature="2175:2265" placeholder=" The custom database path defined by the developer. ..." />
+            <marker date="1443724368000" expanded="true" signature="2305:2394" placeholder=" The custom storage path defined by the developer. ..." />
+            <marker date="1443724368000" expanded="true" signature="2433:2526" placeholder=" The custom environment path defined by the developer. ..." />
+            <marker date="1443724368000" expanded="true" signature="2569:2659" placeholder=" The environment file to load during bootstrapping. ..." />
+            <marker date="1443724368000" expanded="true" signature="2711:2777" placeholder=" The application namespace. ..." />
+            <marker date="1443724368000" expanded="true" signature="2821:2945" placeholder=" Create a new Illuminate application instance. ..." />
+            <marker date="1443724368000" expanded="true" signature="2997:3223" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="3164:3216" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="3232:3317" placeholder=" Get the version number of the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="3349:3393" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="3402:3490" placeholder=" Register the basic bindings into the container. ..." />
+            <marker date="1443724368000" expanded="true" signature="3538:3693" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="3702:3786" placeholder=" Register all of the base service providers. ..." />
+            <marker date="1443724368000" expanded="true" signature="3842:3973" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="3982:4101" placeholder=" Run the given array of bootstrap classes. ..." />
+            <marker date="1443724368000" expanded="true" signature="4159:4490" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="4261:4483" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="4499:4632" placeholder=" Register a callback to run after loading the environment. ..." />
+            <marker date="1443724368000" expanded="true" signature="4697:4837" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="4745:4829" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="4846:5007" placeholder=" Register a callback to run before a bootstrapper. ..." />
+            <marker date="1443724368000" expanded="true" signature="5083:5172" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="5181:5341" placeholder=" Register a callback to run after a bootstrapper. ..." />
+            <marker date="1443724368000" expanded="true" signature="5416:5504" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="5513:5612" placeholder=" Determine if the application has been bootstrapped before. ..." />
+            <marker date="1443724368000" expanded="true" signature="5656:5711" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="5720:5833" placeholder=" Set the base path for the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="5878:6003" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="6012:6104" placeholder=" Bind all of the application paths in the container. ..." />
+            <marker date="1443724368000" expanded="true" signature="6152:6381" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="6296:6374" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="6390:6481" placeholder=" Get the path to the application &quot;app&quot; directory. ..." />
+            <marker date="1443724368000" expanded="true" signature="6510:6580" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="6589:6678" placeholder=" Get the base path of the Laravel installation. ..." />
+            <marker date="1443724368000" expanded="true" signature="6711:6755" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="6764:6859" placeholder=" Get the path to the application configuration files. ..." />
+            <marker date="1443724368000" expanded="true" signature="6894:6967" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="6976:7058" placeholder=" Get the path to the database directory. ..." />
+            <marker date="1443724368000" expanded="true" signature="7095:7193" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="7202:7300" placeholder=" Set the database directory. ..." />
+            <marker date="1443724368000" expanded="true" signature="7345:7467" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="7476:7554" placeholder=" Get the path to the language files. ..." />
+            <marker date="1443724368000" expanded="true" signature="7587:7690" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="7699:7785" placeholder=" Get the path to the public / web directory. ..." />
+            <marker date="1443724368000" expanded="true" signature="7820:7893" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="7902:7983" placeholder=" Get the path to the storage directory. ..." />
+            <marker date="1443724368000" expanded="true" signature="8019:8115" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="8124:8221" placeholder=" Set the storage directory. ..." />
+            <marker date="1443724368000" expanded="true" signature="8265:8385" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="8394:8484" placeholder=" Get the path to the environment file directory. ..." />
+            <marker date="1443724368000" expanded="true" signature="8524:8594" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="8603:8717" placeholder=" Set the directory for the environment file. ..." />
+            <marker date="1443724368000" expanded="true" signature="8765:8840" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="8849:8979" placeholder=" Set the environment file to be loaded during bootstrapping. ..." />
+            <marker date="1443724368000" expanded="true" signature="9028:9103" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="9112:9205" placeholder=" Get the environment file the application is using. ..." />
+            <marker date="1443724368000" expanded="true" signature="9245:9306" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="9315:9428" placeholder=" Get or check the current application environment. ..." />
+            <marker date="1443724368000" expanded="true" signature="9464:9832" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="9505:9795" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="9639:9758" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="9694:9744" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="9841:9931" placeholder=" Determine if application is in local environment. ..." />
+            <marker date="1443724368000" expanded="true" signature="9963:10015" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="10024:10147" placeholder=" Detect the application's current environment. ..." />
+            <marker date="1443724368000" expanded="true" signature="10206:10371" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="10380:10464" placeholder=" Determine if we are running in the console. ..." />
+            <marker date="1443724368000" expanded="true" signature="10505:10558" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="10567:10647" placeholder=" Determine if we are running unit tests. ..." />
+            <marker date="1443724368000" expanded="true" signature="10688:10742" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="10751:10833" placeholder=" Register all of the configured providers. ..." />
+            <marker date="1443724368000" expanded="true" signature="10885:11085" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="11047:11077" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="11094:11344" placeholder=" Register a service provider with the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="11417:12656" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="11494:11535" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="11814:11887" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="12209:12252" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="12569:12622" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="12665:12869" placeholder=" Get the registered service provider instance if it exists. ..." />
+            <marker date="1443724368000" expanded="true" signature="12914:13145" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="13021:13137" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="13083:13136" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="13154:13315" placeholder=" Resolve a service provider instance from the class name. ..." />
+            <marker date="1443724368000" expanded="true" signature="13369:13418" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="13427:13568" placeholder=" Mark the given provider as registered. ..." />
+            <marker date="1443724368000" expanded="true" signature="13621:13804" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="13813:13908" placeholder=" Load and boot all of the remaining deferred providers. ..." />
+            <marker date="1443724368000" expanded="true" signature="13954:14391" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="14285:14345" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="14400:14514" placeholder=" Load the provider for a deferred service. ..." />
+            <marker date="1443724368000" expanded="true" signature="14567:15105" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="14631:14660" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="15023:15098" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="15114:15261" placeholder=" Register a deferred provider and service. ..." />
+            <marker date="1443724368000" expanded="true" signature="15336:15912" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="15619:15682" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="15775:15905" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="15803:15894" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="15832:15893" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="15921:16116" placeholder=" Resolve the given type from the container. ..." />
+            <marker date="1443724368000" expanded="true" signature="16178:16412" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="16290:16351" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="16421:16591" placeholder=" Determine if the given abstract type has been bound. ..." />
+            <marker date="1443724368000" expanded="true" signature="16630:16728" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="16737:16818" placeholder=" Determine if the application has booted. ..." />
+            <marker date="1443724368000" expanded="true" signature="16851:16893" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="16902:16984" placeholder=" Boot the application's service providers. ..." />
+            <marker date="1443724368000" expanded="true" signature="17013:17589" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="17048:17077" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="17405:17492" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="17445:17491" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="17598:17733" placeholder=" Boot the given service provider. ..." />
+            <marker date="1443724368000" expanded="true" signature="17798:17921" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="17852:17914" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="17930:18032" placeholder=" Register a new boot listener. ..." />
+            <marker date="1443724368000" expanded="true" signature="18073:18132" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="18141:18247" placeholder=" Register a new &quot;booted&quot; listener. ..." />
+            <marker date="1443724368000" expanded="true" signature="18287:18439" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="18373:18432" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="18448:18569" placeholder=" Call the booting callbacks for the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="18629:18741" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="18679:18734" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="18750:18777" placeholder=" {@inheritdoc} ..." />
+            <marker date="1443724368000" expanded="true" signature="18876:18989" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="18998:19101" placeholder=" Determine if middleware has been disabled for the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="19146:19270" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="19279:19373" placeholder=" Determine if the application configuration is cached. ..." />
+            <marker date="1443724368000" expanded="true" signature="19419:19500" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="19509:19597" placeholder=" Get the path to the configuration cache file. ..." />
+            <marker date="1443724368000" expanded="true" signature="19641:19717" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="19726:19814" placeholder=" Determine if the application routes are cached. ..." />
+            <marker date="1443724368000" expanded="true" signature="19854:19935" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="19944:20025" placeholder=" Get the path to the routes cache file. ..." />
+            <marker date="1443724368000" expanded="true" signature="20069:20145" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="20154:20244" placeholder=" Get the path to the cached &quot;compiled.php&quot; file. ..." />
+            <marker date="1443724368000" expanded="true" signature="20289:20367" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="20376:20465" placeholder=" Get the path to the cached services.json file. ..." />
+            <marker date="1443724368000" expanded="true" signature="20511:20590" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="20599:20703" placeholder=" Determine if the application is currently down for maintenance. ..." />
+            <marker date="1443724368000" expanded="true" signature="20748:20828" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="20837:21090" placeholder=" Throw an HttpException with the given data. ..." />
+            <marker date="1443724368000" expanded="true" signature="21161:21333" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="21195:21259" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="21342:21472" placeholder=" Register a terminating callback with the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="21525:21611" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="21620:21687" placeholder=" Terminate the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="21721:21846" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="21791:21839" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="21855:21945" placeholder=" Get the service providers that have been loaded. ..." />
+            <marker date="1443724368000" expanded="true" signature="21988:22039" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="22048:22130" placeholder=" Get the application's deferred services. ..." />
+            <marker date="1443724368000" expanded="true" signature="22174:22226" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="22235:22348" placeholder=" Set the application's deferred services. ..." />
+            <marker date="1443724368000" expanded="true" signature="22407:22464" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="22473:22610" placeholder=" Add an array of services to the application's deferred services. ..." />
+            <marker date="1443724368000" expanded="true" signature="22669:22764" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="22773:22899" placeholder=" Determine if the given service is a deferred service. ..." />
+            <marker date="1443724368000" expanded="true" signature="22949:23018" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="23027:23154" placeholder=" Define a callback to be used to configure Monolog. ..." />
+            <marker date="1443724368000" expanded="true" signature="23218:23301" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="23310:23414" placeholder=" Determine if the application has a custom Monolog configurator. ..." />
+            <marker date="1443724368000" expanded="true" signature="23461:23527" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="23536:23637" placeholder=" Get the custom Monolog configurator for the application. ..." />
+            <marker date="1443724368000" expanded="true" signature="23684:23739" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="23748:23826" placeholder=" Get the current application locale. ..." />
+            <marker date="1443724368000" expanded="true" signature="23860:23923" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="23932:24039" placeholder=" Set the current application locale. ..." />
+            <marker date="1443724368000" expanded="true" signature="24080:24256" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="24265:24355" placeholder=" Register the core class aliases in the container. ..." />
+            <marker date="1443724368000" expanded="true" signature="24408:28025" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="24435:27848" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="27900:28018" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="27951:28008" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="28034:28134" placeholder=" Flush the container of all bindings and resolved instances. ..." />
+            <marker date="1443724368000" expanded="true" signature="28164:28239" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="28248:28382" placeholder=" Get the used kernel object. ..." />
+            <marker date="1443724368000" expanded="true" signature="28419:28647" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="28656:28769" placeholder=" Get the application namespace. ..." />
+            <marker date="1443724368000" expanded="true" signature="28806:29403" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="28855:28901" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="29079:29316" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="29132:29306" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="29217:29292" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31712472">
+          <caret line="224" column="23" selection-start-line="224" selection-start-column="23" selection-end-line="224" selection-end-column="23" />
+          <folding>
+            <marker date="1443724368000" expanded="true" signature="97:5587" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="107:210" placeholder=" The application instance. ..." />
+            <marker date="1443724368000" expanded="true" signature="241:328" placeholder=" Indicates if loading of the provider is deferred. ..." />
+            <marker date="1443724368000" expanded="true" signature="369:443" placeholder=" The paths that should be published. ..." />
+            <marker date="1443724368000" expanded="true" signature="492:575" placeholder=" The paths that should be published by group. ..." />
+            <marker date="1443724368000" expanded="true" signature="628:774" placeholder=" Create a new service provider instance. ..." />
+            <marker date="1443724368000" expanded="true" signature="814:853" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="862:933" placeholder=" Register the service provider. ..." />
+            <marker date="1443724368000" expanded="true" signature="985:1145" placeholder=" Merge the given configuration with the existing configuration. ..." />
+            <marker date="1443724368000" expanded="true" signature="1199:1345" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="1354:1489" placeholder=" Register a view file namespace. ..." />
+            <marker date="1443724368000" expanded="true" signature="1547:1794" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="1648:1725" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="1803:1945" placeholder=" Register a translation file namespace. ..." />
+            <marker date="1443724368000" expanded="true" signature="2010:2089" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="2098:2252" placeholder=" Register paths to be published by the publish command. ..." />
+            <marker date="1443724368000" expanded="true" signature="2316:2837" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="2420:2474" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="2585:2830" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="2655:2721" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="2846:2976" placeholder=" Get the paths to publish. ..." />
+            <marker date="1443724368000" expanded="true" signature="3053:3860" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="3094:3341" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="3191:3231" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="3417:3477" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="3555:3614" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="3651:3683" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="3768:3829" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="3869:3989" placeholder=" Register the package's custom Artisan commands. ..." />
+            <marker date="1443724368000" expanded="true" signature="4031:4544" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="4422:4536" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="4476:4535" placeholder="..." />
+            <marker date="1443724368000" expanded="true" signature="4553:4637" placeholder=" Get the services provided by the provider. ..." />
+            <marker date="1443724368000" expanded="true" signature="4670:4701" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="4710:4814" placeholder=" Get the events that trigger this service provider to register. ..." />
+            <marker date="1443724368000" expanded="true" signature="4843:4874" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="4883:4962" placeholder=" Determine if the provider is deferred. ..." />
+            <marker date="1443724368000" expanded="true" signature="4997:5038" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="5047:5149" placeholder=" Get a list of files that should be compiled for the package. ..." />
+            <marker date="1443724368000" expanded="true" signature="5189:5220" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="5229:5376" placeholder=" Dynamically handle missing method calls. ..." />
+            <marker date="1443724368000" expanded="true" signature="5427:5585" placeholder="{...}" />
+            <marker date="1443724368000" expanded="true" signature="5466:5495" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RepositoryServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0042283298">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
